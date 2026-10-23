@@ -8,15 +8,15 @@ Courses and labs I follow, updated as I go. Each entry links to the repository w
 
 | Course | Provider | Repository |
 |---|---|---|
-| Microsoft Azure Administrator (AZ-104) | <!-- provider --> | – |
-| Terraform 101 | Udemy | – |
+| Microsoft Azure Administrator (AZ-104) | cloudlee | – |
+| Terraform 101: The Ultimate Hands-On Guide Azure Edition | Udemy | [terraform-101](https://github.com/PoissonChevre/terraform/tree/master/udemy-terraform-101) |
 | CS50's Introduction to Programming with Python | Harvard / edX | [python](https://github.com/PoissonChevre/python) |
 
 ## Completed
 
 | Course | Provider | Year | Repository |
 |---|---|---|---|
-| Terraform | KodeKloud | 2026 | – |
+| Terraform fot the absolute beginners with labs | KodeKloud | 2026 | [terraform](https://github.com/PoissonChevre/terraform.git) |
 | Linux Foundation Certified System Administrator (LFCS) | KodeKloud | 2026 | – |
 | Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy | 2025 | [kubernetes_cka](https://github.com/PoissonChevre/kubernetes_cka) |
 | Proxmox Virtual Environment full course | Learn Linux TV | 2025 | [proxmox](https://github.com/PoissonChevre/proxmox) |
