@@ -44,3 +44,5 @@ I keep learning continuously through courses, hands-on labs and certification pr
 Currently: Microsoft Azure Administrator (AZ-104).
 
 Full list of the courses I have followed, with links to my notes and labs: [TRAINING.md](https://github.com/PoissonChevre/PoissonChevre/blob/HEAD/TRAINING.md)
+
+My reference notes, built while learning and tested in my labs: [devops_cheat_sheets](https://github.com/PoissonChevre/devops_cheat_sheets)
