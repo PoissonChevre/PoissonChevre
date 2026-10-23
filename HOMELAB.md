@@ -20,6 +20,7 @@ My playground for breaking things on purpose and fixing them properly. I documen
 
 | Repository | Content |
 |---|---|
+| [homelab-infra](https://github.com/PoissonChevre/homelab-infra) | Talos Linux image schematic, machine config patches and Raspberry Pi helper scripts |
 | [proxmox](https://github.com/PoissonChevre/proxmox) | VM and container templates built from cloud images with cloud-init |
 
 ## Roadmap
