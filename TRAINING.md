@@ -27,7 +27,7 @@ Courses and labs I follow, updated as I go. Each entry links to the repository w
 | Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy | 2025 | [kubernetes-cka](https://github.com/PoissonChevre/kubernetes-cka) |
 | Proxmox Virtual Environment full course | Learn Linux TV | 2025 | [proxmox](https://github.com/PoissonChevre/proxmox) |
 | Systems, Network and Security Administrator (RNCP level 6) | OpenClassrooms | 2024 | [openclassrooms](https://github.com/PoissonChevre/openclassrooms) |
-| Vagrant 101 | DevOps Journey | 2024 | [devops_cheat_sheets/vagrant](https://github.com/PoissonChevre/devops_cheat_sheets/tree/main/vagrant) |
+| Vagrant 101 | DevOps Journey | 2024 | [cheatsheets/vagrant](https://github.com/PoissonChevre/cheatsheets/tree/main/vagrant) |
 | Docker curriculum | docker-curriculum.com | 2024 | [docker](https://github.com/PoissonChevre/docker) |
 
 <!--
