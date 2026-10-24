@@ -23,7 +23,7 @@ Courses and labs I follow, updated as I go. Each entry links to the repository w
 | Course | Provider | Year | Repository |
 |---|---|---|---|
 | Terraform for the Absolute Beginners with Labs | KodeKloud | 2026 | [terraform](https://github.com/PoissonChevre/terraform/tree/master/kodekloud-terraform-absolute-beginners) |
-| Linux Foundation Certified System Administrator (LFCS) | KodeKloud | 2026 | – |
+| Linux Foundation Certified System Administrator (LFCS) | KodeKloud | 2026 | [lfcs](https://github.com/PoissonChevre/lfcs) |
 | Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy | 2025 | [kubernetes-cka](https://github.com/PoissonChevre/kubernetes-cka) |
 | Proxmox Virtual Environment full course | Learn Linux TV | 2025 | [proxmox](https://github.com/PoissonChevre/proxmox) |
 | Systems, Network and Security Administrator (RNCP level 6) | OpenClassrooms | 2024 | [openclassrooms](https://github.com/PoissonChevre/openclassrooms) |
