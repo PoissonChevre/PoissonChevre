@@ -11,8 +11,8 @@ After more than 15 years in film and audiovisual production, I chose to move int
 
 - **LFCS** – Linux Foundation Certified System Administrator · May 2026
 - **CKA** – Certified Kubernetes Administrator · June 2025
-- **Systems, Network and Security Administrator** – OpenClassrooms, RNCP level 6 (bachelor's level), 2024
-- **Professional bachelor's degree in applied electronics**
+- **Systems, Network and Security Administrator** – OpenClassrooms, RNCP level 6 (bachelor's level) · 2024
+- **Professional bachelor's degree in applied electronics** · 2022
 
 ### In preparation
 
