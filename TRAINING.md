@@ -8,7 +8,7 @@ Courses and labs I follow, updated as I go. Each entry links to the repository w
 
 | Course | Provider | Repository |
 |---|---|---|
-| Microsoft Azure Administrator (AZ-104) | cloudlee | – |
+| Microsoft Azure Administrator (AZ-104) | CloudLee | [az-104](https://github.com/PoissonChevre/az-104) |
 | Terraform 101: The Ultimate Hands-On Guide Azure Edition | Udemy | [terraform-101](https://github.com/PoissonChevre/terraform/tree/master/udemy-terraform-101) |
 | CS50's Introduction to Programming with Python | Harvard / edX | [python](https://github.com/PoissonChevre/python) |
 
