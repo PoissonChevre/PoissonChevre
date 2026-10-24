@@ -12,6 +12,12 @@ Courses and labs I follow, updated as I go. Each entry links to the repository w
 | Terraform 101: The Ultimate Hands-On Guide Azure Edition | Udemy | [terraform-101](https://github.com/PoissonChevre/terraform/tree/master/udemy-terraform-101) |
 | CS50's Introduction to Programming with Python | Harvard / edX | [python](https://github.com/PoissonChevre/python) |
 
+## On hold
+
+| Course | Provider | Note |
+|---|---|---|
+| Red Hat Certified System Administrator (RHCSA) | KodeKloud | Course followed. I chose the LFCS as my first Linux certification; the RHCSA exam is on hold. |
+
 ## Completed
 
 | Course | Provider | Year | Repository |
