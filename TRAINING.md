@@ -26,7 +26,7 @@ Courses and labs I follow, updated as I go. Each entry links to the repository w
 | Linux Foundation Certified System Administrator (LFCS) | KodeKloud | 2026 | – |
 | Certified Kubernetes Administrator (CKA) with Practice Tests | Udemy | 2025 | [kubernetes-cka](https://github.com/PoissonChevre/kubernetes-cka) |
 | Proxmox Virtual Environment full course | Learn Linux TV | 2025 | [proxmox](https://github.com/PoissonChevre/proxmox) |
-| Systems, Network and Security Administrator (RNCP level 6) | OpenClassrooms | 2024 | [OC](https://github.com/PoissonChevre/OC) |
+| Systems, Network and Security Administrator (RNCP level 6) | OpenClassrooms | 2024 | [openclassrooms](https://github.com/PoissonChevre/openclassrooms) |
 | Vagrant 101 | DevOps Journey | 2024 | [vagrant](https://github.com/PoissonChevre/vagrant) |
 | Docker curriculum | docker-curriculum.com | 2024 | [docker](https://github.com/PoissonChevre/docker) |
 
