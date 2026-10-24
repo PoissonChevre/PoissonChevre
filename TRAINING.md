@@ -1,4 +1,4 @@
-# Training
+# Training 
 
 Courses and labs I follow, updated as I go. Each entry links to the repository with my notes and code when there is one.
 
